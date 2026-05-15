@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫Hi Iam Bilal:
 👨‍💻 I’m currently working on a feature-rich Console-Based Management System using C# focused on creating practical solutions that can help users manage tasks efficiently.<br><br>🤝 I’m looking to collaborate on C#, .NET, and software development projects that involve problem-solving, management systems, and innovative ideas.<br><br>🌱 I’m currently learning advanced C# concepts, software architecture, and improving my development skills by building real-world projects.<br><br>💬 Ask me about C#, console applications, beginner-friendly programming projects, and problem-solving techniques.<br><br>⚡ Fun fact: I’m passionate about coding and continuously improving my skills by exploring new technologies and developing different types of projects.<br>
 
 
